@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+* {
+    position: relative;
+    font-family: 'Audiowide', cursive;;
+    color: aliceblue;
+}
+
+.main{
+    padding-top: 60px ;
+    padding-bottom: 60px;
+}
